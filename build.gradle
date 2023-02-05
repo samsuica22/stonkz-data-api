@@ -27,6 +27,14 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-reactor-netty:2.7.5'
 }
 
+jar {
+	manifest {
+		attributes(
+				'Main-Class': 'com.stonkz.stonkzdataapi.StonkzDataApiApplication'
+		)
+	}
+}
+
 tasks.named('test') {
 	useJUnitPlatform()
 }
