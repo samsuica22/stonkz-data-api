@@ -1,12 +1,11 @@
-package com.maciej.wsbdataapi.service;
+package com.stonkz.stonkzdataapi.service;
 
-import com.maciej.wsbdataapi.client.WsbClient;
-import com.maciej.wsbdataapi.model.WsbResponse;
+import com.stonkz.stonkzdataapi.client.WsbClient;
+import com.stonkz.stonkzdataapi.model.WsbResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 public class WsbService {

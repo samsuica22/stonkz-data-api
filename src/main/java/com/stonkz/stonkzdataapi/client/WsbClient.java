@@ -1,6 +1,6 @@
-package com.maciej.wsbdataapi.client;
+package com.stonkz.stonkzdataapi.client;
 
-import com.maciej.wsbdataapi.model.WsbResponse;
+import com.stonkz.stonkzdataapi.model.WsbResponse;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
