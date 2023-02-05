@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WsbDataApiApplication {
+public class StonkzDataApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WsbDataApiApplication.class, args);
+		SpringApplication.run(StonkzDataApiApplication.class, args);
 	}
 
 }
