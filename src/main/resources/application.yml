@@ -1,0 +1,2 @@
+alpha-advantage-api:
+  key: ${ALPHA_ADVANTAGE_KEY}

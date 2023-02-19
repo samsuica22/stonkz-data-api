@@ -1,7 +1,7 @@
 package com.stonkz.stonkzdataapi.service;
 
 import com.stonkz.stonkzdataapi.client.WsbClient;
-import com.stonkz.stonkzdataapi.model.WsbResponse;
+import com.stonkz.stonkzdataapi.model.wsb.WsbResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

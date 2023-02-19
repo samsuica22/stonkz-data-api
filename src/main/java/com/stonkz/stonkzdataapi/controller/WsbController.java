@@ -1,6 +1,6 @@
 package com.stonkz.stonkzdataapi.controller;
 
-import com.stonkz.stonkzdataapi.model.WsbResponse;
+import com.stonkz.stonkzdataapi.model.wsb.WsbResponse;
 import com.stonkz.stonkzdataapi.service.WsbService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

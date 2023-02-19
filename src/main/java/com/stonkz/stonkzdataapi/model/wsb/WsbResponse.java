@@ -1,4 +1,4 @@
-package com.stonkz.stonkzdataapi.model;
+package com.stonkz.stonkzdataapi.model.wsb;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
